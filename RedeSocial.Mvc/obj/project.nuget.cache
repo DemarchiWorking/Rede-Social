@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHX8t+z3prtq8tcP2eBoAW46XxfpODW93XB9fGt9i5V7ha7TJ9D6jBNu1mLs+Ke6VTI2z1FkanIyoLnyEueycw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AntonioEduardo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

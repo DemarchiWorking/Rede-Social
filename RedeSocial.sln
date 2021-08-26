@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.Mvc", "RedeSocial.Mvc\RedeSocial.Mvc.csproj", "{F26F9A6B-0536-41EE-A949-266BF3F102E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.Api", "RedeSocial.Api\RedeSocial.Api.csproj", "{31FD5044-F413-4314-A40E-2A1CB16FCA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26F9A6B-0536-41EE-A949-266BF3F102E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26F9A6B-0536-41EE-A949-266BF3F102E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26F9A6B-0536-41EE-A949-266BF3F102E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26F9A6B-0536-41EE-A949-266BF3F102E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FD5044-F413-4314-A40E-2A1CB16FCA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FD5044-F413-4314-A40E-2A1CB16FCA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FD5044-F413-4314-A40E-2A1CB16FCA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FD5044-F413-4314-A40E-2A1CB16FCA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFA1FC9D-4936-4F65-BADB-F99327188A46}
+	EndGlobalSection
+EndGlobal
