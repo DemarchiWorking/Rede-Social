@@ -19,8 +19,9 @@ namespace RedeSocial.Api.Controllers
             {
                 Img = request.Img,
                 Text = request.Text,
-                Title = request.Title
-            });
+                Title = request.Title,
+                Author = User.Identity.Name
+            }) ;
             return Ok();
         }
         static List<GetPostResponse> posts = new List<GetPostResponse>();

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using RedeSocial.Mvc.Models.Posts;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace RedeSocial.Mvc.Controllers
 {
+    [Authorize]
     public class PostsController : Controller
     {
         public async Task<IActionResult> Index()
@@ -30,7 +32,8 @@ namespace RedeSocial.Mvc.Controllers
             {
                 Title = title,
                 Text = text,
-                Img = ""
+                Img = "",
+                Author = ""
             };
             var postAsJson = JsonConvert.SerializeObject(createPost);
             var conteudo = new StringContent(postAsJson, System.Text.Encoding.UTF8, "application/json");

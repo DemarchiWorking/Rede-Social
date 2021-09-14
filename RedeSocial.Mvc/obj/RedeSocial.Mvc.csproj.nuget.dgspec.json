@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {}
+    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {
+    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
         "projectName": "RedeSocial.Mvc",
-        "projectPath": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
+        "projectPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
         "packagesPath": "C:\\Users\\AntonioEduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,34 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"

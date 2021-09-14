@@ -1,17 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Api\\RedeSocial.Api.csproj": {}
+    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Api\\RedeSocial.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Api\\RedeSocial.Api.csproj": {
+    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\Blls\\Blls.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\Blls\\Blls.csproj",
+        "projectName": "Blls",
+        "projectPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\Blls\\Blls.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Api\\RedeSocial.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Api\\RedeSocial.Api.csproj",
+        "projectUniqueName": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Api\\RedeSocial.Api.csproj",
         "projectName": "RedeSocial.Api",
-        "projectPath": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Api\\RedeSocial.Api.csproj",
+        "projectPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Api\\RedeSocial.Api.csproj",
         "packagesPath": "C:\\Users\\AntonioEduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntonioEduardo\\source\\repos\\AULAS\\Acessment_Jhon\\Mvc&Api\\RedeSocial\\RedeSocial.Api\\obj\\",
+        "outputPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,7 +40,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\Blls\\Blls.csproj": {
+                "projectPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\Blls\\Blls.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -43,6 +57,26 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
