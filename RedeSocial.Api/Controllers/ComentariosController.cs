@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace RedeSocial.Api.Controllers
 {
-    [Route("api/livros")]
+    [Route("api/comentario")]
     [ApiController]
     public class ComentariosController : Controller
     {

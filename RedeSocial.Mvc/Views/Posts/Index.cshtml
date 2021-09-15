@@ -24,18 +24,19 @@ Página de Post
 <hr />
 
 @foreach (var post in Model.Posts)
- {
+{
     <div class="card" style="width: 18rem;">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title"> @post.Title </h5>
-        <p class="card-text"> @post.Text </p>
-        <p class="card-text"> @post.Author </p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <div class="card-body">
+            <h5 class="card-title"> @post.Title </h5>
+            <img src="https://projetoblocostorage.blob.core.windows.net/images/@post.Img">
+            <p class="card-text"> @post.Text </p>
+            <p class="card-text"> @post.Author </p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
     </div>
-</div>
 
- }
+}
+<!--
 <div class="card" style="width: 18rem;">
     <img src="..." class="card-img-top" alt="...">
     <div class="card-body">
@@ -44,3 +45,4 @@ Página de Post
         <a href="#" class="btn btn-primary">Go somewhere</a>
     </div>
 </div>
+-->

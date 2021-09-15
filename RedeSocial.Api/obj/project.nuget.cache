@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TkLWQ8+7tqoM5PidQbuRCxsWGdjNivDKMJW1JT7oaz+A0G5XoeYARl4MRRCKPeBDHLClTUaE9GI0bLOf9VNrGw==",
+  "dgSpecHash": "QcSW9vUq6H9J8wxNkd4RlUG38Rrq9qUP2PFF0WEosJ2VEFMqiH2xL9coe6pZfR72hNHQWcLLYCS8zs/s2xTwxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial - AuthMvc\\RedeSocial.Api\\RedeSocial.Api.csproj",
+  "projectFilePath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Api\\RedeSocial.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AntonioEduardo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\AntonioEduardo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
