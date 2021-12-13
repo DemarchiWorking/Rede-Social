@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {}
+    "C:\\Users\\AntonioEduardo\\Downloads\\ProjetoDeBloco\\assesment-projeto\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {
+    "C:\\Users\\AntonioEduardo\\Downloads\\ProjetoDeBloco\\assesment-projeto\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\AntonioEduardo\\Downloads\\ProjetoDeBloco\\assesment-projeto\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
         "projectName": "RedeSocial.Mvc",
-        "projectPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
+        "projectPath": "C:\\Users\\AntonioEduardo\\Downloads\\ProjetoDeBloco\\assesment-projeto\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
         "packagesPath": "C:\\Users\\AntonioEduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\AntonioEduardo\\Downloads\\ProjetoDeBloco\\assesment-projeto\\RedeSocial.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

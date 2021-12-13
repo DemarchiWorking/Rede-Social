@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zYkDL99KRWMTPxkg0MSAd9JU+PNZ1OjQQA797I0WHq1j2Ly/+KfSoft5qhRR747nDk68TcnZIGFJXLOR0Ed++A==",
+  "dgSpecHash": "Vx2o7BGcSjYLY7vmo1tp06I1HrRgoCYg7R1AYUCcIh2YhtbQ45cRizR5OBX+keut3EoNt3pLCXghj0dw08CcMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AntonioEduardo\\Downloads\\RedeSocial.AuthMvc\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\AntonioEduardo\\Downloads\\ProjetoDeBloco\\assesment-projeto\\RedeSocial.Mvc\\RedeSocial.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AntonioEduardo\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardo\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",

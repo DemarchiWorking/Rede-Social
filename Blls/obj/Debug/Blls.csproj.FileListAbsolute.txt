@@ -10,3 +10,9 @@ C:\Users\AntonioEduardo\Downloads\RedeSocial - AuthMvc\Blls\obj\Debug\Blls.cspro
 C:\Users\AntonioEduardo\Downloads\RedeSocial - AuthMvc\Blls\obj\Debug\Blls.csproj.CoreCompileInputs.cache
 C:\Users\AntonioEduardo\Downloads\RedeSocial - AuthMvc\Blls\obj\Debug\Blls.dll
 C:\Users\AntonioEduardo\Downloads\RedeSocial - AuthMvc\Blls\obj\Debug\Blls.pdb
+C:\Users\AntonioEduardo\Downloads\ProjetoDeBloco\assesment-projeto\Blls\bin\Debug\Blls.dll
+C:\Users\AntonioEduardo\Downloads\ProjetoDeBloco\assesment-projeto\Blls\bin\Debug\Blls.pdb
+C:\Users\AntonioEduardo\Downloads\ProjetoDeBloco\assesment-projeto\Blls\obj\Debug\Blls.csproj.AssemblyReference.cache
+C:\Users\AntonioEduardo\Downloads\ProjetoDeBloco\assesment-projeto\Blls\obj\Debug\Blls.csproj.CoreCompileInputs.cache
+C:\Users\AntonioEduardo\Downloads\ProjetoDeBloco\assesment-projeto\Blls\obj\Debug\Blls.dll
+C:\Users\AntonioEduardo\Downloads\ProjetoDeBloco\assesment-projeto\Blls\obj\Debug\Blls.pdb
